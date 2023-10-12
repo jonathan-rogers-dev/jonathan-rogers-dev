@@ -1,6 +1,6 @@
 ### Hello World!
 
-My name is Jonathan Rogers and I am a high school student and software developer.
+My name is Jonathan Rogers and I am a college student at North Carolina State University and a software developer.
 
 #### Current Projects
 - [Rise](https://github.com/NCVirtual-Coding-Club/Rise)
@@ -9,7 +9,6 @@ My name is Jonathan Rogers and I am a high school student and software developer
 
 
 #### Social Media Accounts
-- [Twitter](https://twitter.com/lynnix_dev)
 - [LinkedIn](https://www.linkedin.com/in/jonathan-l-rogers/)
 
 
