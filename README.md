@@ -3,9 +3,7 @@
 My name is Jonathan Rogers and I am a college student at North Carolina State University and a software developer.
 
 #### Current Projects
-- [Rise](https://github.com/NCVirtual-Coding-Club/Rise)
-- [IT Reference Guide for NC Virtual Public Schools](https://github.com/ncvpsptc/it)
-- [AP Hub](https://github.com/ncvpsptc/aphub)
+- [Sound Around Town - Cooper Lab @ North Carolina State University](https://faculty.cnr.ncsu.edu/carencooper/research/)
 
 
 #### Social Media Accounts
